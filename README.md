@@ -26,7 +26,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 			</a>
 		</td>
 		<td>
-			2022/5/5 1:11 AM UTC
+			2022/5/6 1:03 AM UTC
 		</td>
 		<td>
 			24
@@ -37,7 +37,7 @@ The project created and maintained by [gayanvoice](https://github.com/gayanvoice
 	</tr>
 </table>
 
-<small><i>Last updated on 2022/5/7 6:16 PM UTC</i></small>
+<small><i>Last updated on 2022/5/8 1:06 AM UTC</i></small>
 
 ## ✂️Copy and 📋 Paste
 ### Total Views Badge
